@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Daoxi Cao(曹道熙)"
-description              : "Focusing on computer vision. "
+description              : "A researcher in computer vision. "
 repository               : "theo913987/theo913987.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Daoxi Cao(曹道熙)"
   avatar           : "images/biaozhun.jpg"
-  bio              : "Taiyuan University of Technology"
-  location         : "Shanxi, China"
+  bio              : "Undergraduate"
+  location         : "Taiyuan, Shanxi, China"
+  location         : "Taiyuan University of Technology"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/theo913987
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/my-orcid?orcid=0009-0003-7157-4802
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
