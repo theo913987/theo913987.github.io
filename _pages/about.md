@@ -37,18 +37,27 @@ If you are interested in my research or potential collaborations, feel free to c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 30px;">
 
-[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](https://arxiv.org/abs/2505.23341)
+  <!-- Left: Image Section -->
+  <div class='paper-box-image' style="flex: 0 0 300px; max-width: 300px;">
+    <div>
+      <div class="badge">BSPC</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
 
-Biomedical Signal Processing and Control (SCI Q2) Under Review
+  <!-- Right: Text Section -->
+  <div class='paper-box-text' markdown="1" style="flex: 1;">
 
-**Daoxi Cao**, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xinyi Li, Xuehan Zhang, Binwei Li,  Xuancheng Gu, Xueyu Liu, Yongfei Wu
+[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](https://arxiv.org/abs/2505.23341)  
+*Biomedical Signal Processing and Control (SCI Q2), Under Review*
+
+**Daoxi Cao**, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xinyi Li, Xuehan Zhang, Binwei Li, Xuancheng Gu, Xueyu Liu, Yongfei Wu
 
 <div style="display: flex; gap: 20px; margin-top: 10px;">
   <a href="https://arxiv.org/pdf/2505.23341" target="_blank"><strong>[Paper]</strong></a>
-  <a href="" target="_blank"><strong>[Code]</strong></a>
+  <a href="#" target="_blank"><strong>[Code]</strong></a>
 </div>
 
 <hr>
@@ -58,6 +67,9 @@ Biomedical Signal Processing and Control (SCI Q2) Under Review
 - An alternating training strategy is introduced to improve semantic consistency and enable effective collaboration between the teacher and student branches.
 - We design a lightweight encoder (VSSMamba) and a scale‑aware attention module (FASA) to balance efficient long‑range modeling and focus on diagnostically critical regions.
 - DSAGL consistently outperforms representative MIL‑based methods on both synthetic and real‑world pathological datasets at the instance and bag levels.
+
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
