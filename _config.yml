@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Daoxi Cao(曹道熙)"
   avatar           : "images/biaozhun.png"
-  bio              : "Undergraduate"
-  location         : "Taiyuan University of Technology Taiyuan, Shanxi, China"
+  bio              : " A Undergraduate of Taiyuan University of Technology "
+  location         : "Taiyuan, Shanxi, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
