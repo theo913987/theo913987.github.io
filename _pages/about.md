@@ -35,7 +35,7 @@ If you are interested in my research or potential collaborations, feel free to c
 - *2024.08*: &nbsp;🎉🎉The Undergraduate Innovation and Entrepreneurship Training Program project in which I played a key role was recognized as a provincial-level project.
 - *2024.02*: &nbsp;I joined the Intelligent Medicine and Biometric Research Laboratory (IMBR) as an undergraduate member. 
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box' style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 30px;">
 
@@ -48,28 +48,35 @@ If you are interested in my research or potential collaborations, feel free to c
   </div>
 
   <!-- Right: Text Section -->
-  <div class='paper-box-text' markdown="1" style="flex: 1;">
+  <div class='paper-box-text' style="flex: 1;">
 
-[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](https://arxiv.org/abs/2505.23341)  
-*Biomedical Signal Processing and Control (SCI Q2), Under Review*
+    <p>
+      <a href="https://arxiv.org/abs/2505.23341"><strong>DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification</strong></a><br>
+      <em>Biomedical Signal Processing and Control (SCI Q2), Under Review</em>
+    </p>
 
-**Daoxi Cao**, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xinyi Li, Xuehan Zhang, Binwei Li, Xuancheng Gu, Xueyu Liu, Yongfei Wu
+    <p>
+      <strong>Daoxi Cao</strong>, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xinyi Li, Xuehan Zhang, Binwei Li, Xuancheng Gu, Xueyu Liu, Yongfei Wu
+    </p>
 
-<div style="display: flex; gap: 20px; margin-top: 10px;">
-  <a href="https://arxiv.org/pdf/2505.23341" target="_blank"><strong>[Paper]</strong></a>
-  <a href="#" target="_blank"><strong>[Code]</strong></a>
-</div>
+    <div style="display: flex; gap: 20px; margin-top: 10px;">
+      <a href="https://arxiv.org/pdf/2505.23341" target="_blank"><strong>[Paper]</strong></a>
+      <a href="#" target="_blank"><strong>[Code]</strong></a>
+    </div>
 
-<hr>
+    <hr>
 
-**Highlights**
-- We propose DSAGL, a novel weakly supervised classification framework that integrates a dual‑stream structure and a teacher–student mechanism to jointly enhance instance‑level and bag‑level performance.
-- An alternating training strategy is introduced to improve semantic consistency and enable effective collaboration between the teacher and student branches.
-- We design a lightweight encoder (VSSMamba) and a scale‑aware attention module (FASA) to balance efficient long‑range modeling and focus on diagnostically critical regions.
-- DSAGL consistently outperforms representative MIL‑based methods on both synthetic and real‑world pathological datasets at the instance and bag levels.
+    <p><strong>Highlights</strong></p>
+    <ul>
+      <li>We propose DSAGL, a novel weakly supervised classification framework that integrates a dual‑stream structure and a teacher–student mechanism to jointly enhance instance‑level and bag‑level performance.</li>
+      <li>An alternating training strategy is introduced to improve semantic consistency and enable effective collaboration between the teacher and student branches.</li>
+      <li>We design a lightweight encoder (VSSMamba) and a scale‑aware attention module (FASA) to balance efficient long‑range modeling and focus on diagnostically critical regions.</li>
+      <li>DSAGL consistently outperforms representative MIL‑based methods on both synthetic and real‑world pathological datasets at the instance and bag levels.</li>
+    </ul>
 
   </div>
 </div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
