@@ -32,7 +32,7 @@ If you are interested in my research or potential collaborations, feel free to c
 
 
 # 🔥 News
-#- *2024.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉The Undergraduate Innovation and Entrepreneurship Training Program project in which I played a key role was recognized as a provincial-level project.
 - *2024.02*: &nbsp;I joined the Intelligent Medicine and Biometric Research Laboratory (IMBR) as an undergraduate member. 
 
 # 📝 Publications 
@@ -46,12 +46,18 @@ Biomedical Signal Processing and Control (SCI Q2) Under Review
 
 **Daoxi Cao**, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xinyi Li, Xuehan Zhang, Binwei Li,  Xuancheng Gu, Xueyu Liu, Yongfei Wu
 
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+<div style="display: flex; gap: 20px; margin-top: 10px;">
   <a href="https://arxiv.org/pdf/2505.23341" target="_blank"><strong>[Paper]</strong></a>
   <a href="" target="_blank"><strong>[Code]</strong></a>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<hr>
+
+**Highlights**
+- We propose DSAGL, a novel weakly supervised classification framework that integrates a dual‑stream structure and a teacher–student mechanism to jointly enhance instance‑level and bag‑level performance.
+- An alternating training strategy is introduced to improve semantic consistency and enable effective collaboration between the teacher and student branches.
+- We design a lightweight encoder (VSSMamba) and a scale‑aware attention module (FASA) to balance efficient long‑range modeling and focus on diagnostically critical regions.
+- DSAGL consistently outperforms representative MIL‑based methods on both synthetic and real‑world pathological datasets at the instance and bag levels.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
