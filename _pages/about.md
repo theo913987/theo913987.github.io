@@ -37,13 +37,14 @@ If you are interested in my research or potential collaborations, feel free to c
 
 # 📝 Publications
 
+<!-- DSAGL Paper -->
 <div class='paper-box' style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 30px;">
 
   <!-- Left: Image Section -->
   <div class='paper-box-image' style="flex: 0 0 300px; max-width: 300px;">
     <div>
       <div class="badge">BSPC</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/500x300.png' alt="DSAGL Figure" width="100%">
     </div>
   </div>
 
@@ -64,7 +65,7 @@ If you are interested in my research or potential collaborations, feel free to c
       <a href="#" target="_blank"><strong>[Code]</strong></a>
     </div>
 
-    <hr>
+    <hr style="border: none; height: 2px; background-color: #ddd; margin: 20px 0;">
 
     <p><strong>Highlights</strong></p>
     <ul>
@@ -76,6 +77,47 @@ If you are interested in my research or potential collaborations, feel free to c
 
   </div>
 </div>
+
+<!-- FALMIL Paper -->
+<div class='paper-box' style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 30px;">
+
+  <!-- Left: Image Section -->
+  <div class='paper-box-image' style="flex: 0 0 300px; max-width: 300px;">
+    <div>
+      <div class="badge">PRCV 2025</div>
+      <img src='images/falmil-figure.png' alt="FALMIL Figure" width="100%">
+    </div>
+  </div>
+
+  <!-- Right: Text Section -->
+  <div class='paper-box-text' style="flex: 1;">
+
+    <p>
+      <a href=""><strong>FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images</strong></a><br>
+      <em>Chinese Conference on Pattern Recognition and Computer Vision (CCF-C), Submitted</em>
+    </p>
+
+    <p>
+      <strong>Daoxi Cao</strong>, [Author List], Yongfei Wu
+    </p>
+
+    <div style="display: flex; gap: 20px; margin-top: 10px;">
+      <a href="" target="_blank"><strong>[Paper]</strong></a>
+      <a href="" target="_blank"><strong>[Code]</strong></a>
+    </div>
+
+    <hr style="border: none; height: 2px; background-color: #ddd; margin: 20px 0;">
+
+    <p><strong>Highlights</strong></p>
+    <ul>
+      <li>We propose FALMIL, a frequency-aware linear MIL framework for efficient weakly supervised lesion segmentation in WSIs using only image-level labels.</li>
+      <li>We design a dual-domain encoder combining learnable frequency features with Mamba-based long-range instance modeling under linear complexity.</li>
+      <li>Without any soft-label refinement, FALMIL directly uses binarized CAMs as pseudo masks, achieving competitive performance on challenging pathology datasets.</li>
+    </ul>
+
+  </div>
+</div>
+
 
 
 # 🎖 Honors and Awards
