@@ -132,10 +132,6 @@ If you are interested in my research or potential collaborations, feel free to c
 - School-level “Second-Class Scholarship” — *Once*
 - School-level “Third-Class Scholarship” — *Three times*
  
-
-# 📖 Educations
-- *2019.06 - present*,B.ENG. Major in Computer Science and Technology, College of Computer Science and Technology (College of Big Data) , Taiyuan University of Technology, China
-
 # 💻 Patents and Software Works
 - **Design Patent**: Intelligent Diagnostic Robot (Based on Multidimensional OCT Images)  
   *Inventor*: First Author  
@@ -153,6 +149,9 @@ If you are interested in my research or potential collaborations, feel free to c
 - **Software Copyright (Pending)**: Lesion Recognition and Prediction System for AMD Based on Multidimensional OCT  
   *Co-author*: Third Author  
   *Filed on*: June 2025
+
+# 📖 Educations
+- *2019.06 - present*,B.ENG. Major in Computer Science and Technology, College of Computer Science and Technology (College of Big Data) , Taiyuan University of Technology, China
   
 # 🧠 Skills  
 - Proficient in **Python**, familiar with the **PyTorch** framework  
