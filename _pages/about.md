@@ -29,8 +29,6 @@ In addition to my core research in medical imaging, I am also deeply interested 
 If you are interested in my research or potential collaborations, feel free to contact me via the provided details!
 
 
-
-
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉<a href="https://jyt.shanxi.gov.cn/sjytxxgk/xxgkml/jytwj/202408/P020240806312476481683.pdf" target="_blank">The Undergraduate Innovation and Entrepreneurship Training Program project</a> in which I played a key role was recognized as a provincial-level project.
 - *2024.02*: &nbsp;I joined the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> as an undergraduate member. 
@@ -123,10 +121,10 @@ If you are interested in my research or potential collaborations, feel free to c
 # 🎖 Honors and Awards
 - *2025.2* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Special Project Track — *National Level – First Prize*
 - *2023.6* The 25th National College English Contest — *National Level – Third Prize*
-- *2023.3* The 32nd National College Mathematical Modeling Competition — *Shanxi Province – Second Prize*
-- *2025.6* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Design Track — *Shanxi Province – Second Prize*
-- *2023.12* The 15th National College Mathematical Competition — *Shanxi Province – Third Prize*
-- *2024.4* The 15th Lanqiao Cup National Software and Information Technology Talent Competition — *Shanxi Province – Third Prize*
+- *2023.3* The 32nd National College Mathematical Modeling Competition — *Provincial Level – Second Prize*
+- *2025.6* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Design Track — *Provincial Level – Second Prize*
+- *2023.12* The 15th National College Mathematical Competition — *Provincial Level – Third Prize*
+- *2024.04* The 15th Lanqiao Cup National Software and Information Technology Talent Competition – Programming Track — *Provincial Level – Third Prize*
 - *2024.6* Shanxi Construction Investment Education Award — *Outstanding Student Award*
 - *2022* Taiyuan University of Technology “Qing'ou Award” — *Outstanding Talent Award*
 - School-level “Outstanding Academic Research Individual” Certificate — *Once*
@@ -138,7 +136,38 @@ If you are interested in my research or potential collaborations, feel free to c
 # 📖 Educations
 - *2019.06 - present*,B.ENG. Major in Computer Science and Technology, College of Computer Science and Technology (College of Big Data) , Taiyuan University of Technology, China
 
-# 💬 Invited Talks
+# 💻 Patents and Software Works
+- **Design Patent**: Intelligent Diagnostic Robot (Based on Multidimensional OCT Images)  
+  *Inventor*: Sole Inventor  
+  *Granted on*: June 24, 2025  
+  *Patent No.*: [ZL 2024 3 0682609.6](https://epub.cnipa.gov.cn/)  
 
-# 💻 Internships
+- **Utility Patent (Pending)**: A Multizone Adaptive Focus OCT Device  
+  *Co-inventor*: Third Author  
+  *Filed on*: October 2024
+
+- **Utility Patent (Pending)**: A Disease Variant Recognition Device  
+  *Co-inventor*: Third Author  
+  *Filed on*: March 2025
+
+- **Software Copyright (Pending)**: Lesion Recognition and Prediction System for AMD Based on Multidimensional OCT  
+  *Co-author*: Third Author  
+  *Filed on*: June 2025
+  
+# 🛠️ Skills  
+- Proficient in **Python**, familiar with the **PyTorch** framework  
+- Experienced in **Linux** server operation  
+- Skilled in using programming tools such as **PyCharm** and **VSCode**  
+- Familiar with AI tools including **ChatGPT**, **Deepseek**, **Cursor**, and **V0**  
+- Proficient in **Word**, **PowerPoint**, **Visio**, **Excel**, and basic **video editing software**  
+- Strong **learning ability**, good **teamwork** and **communication skills**
+  
+# 🧩 Personal Interests
+- Exploring and experimenting with **AI Agents**  
+- **Video creation and editing**  
+- Interested in **algorithm design and research**  
+- Playing the **guitar**  
+- **Singing**  
+- **Table tennis**  
+- Enjoying **board games**
 
