@@ -154,7 +154,7 @@ If you are interested in my research or potential collaborations, feel free to c
   *Co-author*: Third Author  
   *Filed on*: June 2025
   
-# 🛠️ Skills  
+# 🧠 Skills  
 - Proficient in **Python**, familiar with the **PyTorch** framework  
 - Experienced in **Linux** server operation  
 - Skilled in using programming tools such as **PyCharm** and **VSCode**  
