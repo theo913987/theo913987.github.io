@@ -138,7 +138,7 @@ If you are interested in my research or potential collaborations, feel free to c
 
 # 💻 Patents and Software Works
 - **Design Patent**: Intelligent Diagnostic Robot (Based on Multidimensional OCT Images)  
-  *Inventor*: Sole Inventor  
+  *Inventor*: First Author  
   *Granted on*: June 24, 2025  
   *Patent No.*: [ZL 2024 3 0682609.6](https://epub.cnipa.gov.cn/)  
 
