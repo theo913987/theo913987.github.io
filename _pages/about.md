@@ -44,7 +44,7 @@ If you are interested in my research or potential collaborations, feel free to c
   <div class='paper-box-image' style="flex: 0 0 300px; max-width: 300px;">
     <div>
       <div class="badge">BSPC</div>
-      <img src='images/500x300.png' alt="DSAGL Figure" width="100%">
+      <img src='images/DSAGL.png' alt="DSAGL Figure" width="100%">
     </div>
   </div>
 
