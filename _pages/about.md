@@ -121,16 +121,24 @@ If you are interested in my research or potential collaborations, feel free to c
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.2* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Special Project Track — *National Level – First Prize*
+- *2023.6* The 25th National College English Contest — *National Level – Third Prize*
+- *2023.3* The 32nd National College Mathematical Modeling Competition — *Shanxi Province – Second Prize*
+- *2025.6* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Design Track — *Shanxi Province – Second Prize*
+- *2023.12* The 15th National College Mathematical Competition — *Shanxi Province – Third Prize*
+- *2024.4* The 15th Lanqiao Cup National Software and Information Technology Talent Competition — *Shanxi Province – Third Prize*
+- *2024.6* Shanxi Construction Investment Education Award — *Outstanding Student Award*
+- *2022* Taiyuan University of Technology “Qing'ou Award” — *Outstanding Talent Award*
+- School-level “Outstanding Academic Research Individual” Certificate — *Once*
+- School-level “Outstanding Academic Performance Individual” Certificate — *Three times*
+- School-level “Second-Class Scholarship” — *Once*
+- School-level “Third-Class Scholarship” — *Three times*
+ 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - present*,B.ENG. Major in Computer Science and Technology, College of Computer Science and Technology (College of Big Data) , Taiyuan University of Technology, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
