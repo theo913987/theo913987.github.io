@@ -36,6 +36,8 @@ If you are interested in my research or potential collaborations, feel free to c
 - *2024.02*: &nbsp;I joined the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> as an undergraduate member. 
 - *2023.12*: &nbsp;Competitively selected for the <a href="https://jwc.tyut.edu.cn/info/1359/7845.htm" target="_blank">Excellent Engineer Education and Training Program</a>, joining the dedicated Excellent Engineer Class designed for top-performing students.
 - *2023.06*: &nbsp;🎉🎉 I was honored with the <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — <em>Outstanding Talent Award</em></a> (Top 2%)
+
+
 # 📝 Publications
 
 <!-- DSAGL Paper -->
