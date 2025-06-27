@@ -82,8 +82,8 @@ If you are interested in my research or potential collaborations, feel free to c
   <!-- Left: Image Section -->
   <div class='paper-box-image' style="flex: 0 0 300px; max-width: 300px;">
     <div>
-      <div class="badge">PRCV 2025</div>
-      <img src='images/FILMIL.png' alt="FALMIL Figure" width="100%">
+      <div class="badge">JVCI</div>
+      <img src='images/DGMCN.png' alt="FALMIL Figure" width="100%">
     </div>
   </div>
 
@@ -91,12 +91,12 @@ If you are interested in my research or potential collaborations, feel free to c
   <div class='paper-box-text' style="flex: 1;">
 
     <p>
-      <a href=""><strong>FALMIL: Frequency-aware Linear MIL for Efficient Weakly Supervised Lesion Segmentation in Gigapixel Pathology Images</strong></a><br>
-      <em>Chinese Conference on Pattern Recognition and Computer Vision (CCF-C), Submitted</em>
+      <a href=""><strong>DGMCN: Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images</strong></a><br>
+      <em>Journal of Visual Communication and Image Representation (CCF-C), With Editor</em>
     </p>
 
     <p>
-      <strong>Daoxi Cao</strong>, [Author List], Yongfei Wu
+      <strong> Xuehan Zhang, Hangbei Cheng, Tengfei Xu, Xinyi Li, Daoxi Cao, Xiaorong Dong, Xueyu Liu, Yongfei Wu
     </p>
 
     <div style="display: flex; gap: 20px; margin-top: 10px;">
@@ -108,9 +108,9 @@ If you are interested in my research or potential collaborations, feel free to c
 
     <p><strong>Highlights</strong></p>
     <ul>
-      <li>We propose FALMIL, a frequency-aware linear MIL framework for efficient weakly supervised lesion segmentation in WSIs using only image-level labels.</li>
-      <li>We design a dual-domain encoder combining learnable frequency features with Mamba-based long-range instance modeling under linear complexity.</li>
-      <li>Without any soft-label refinement, FALMIL directly uses binarized CAMs as pseudo masks, achieving competitive performance on challenging pathology datasets.</li>
+      <li>A Depth-Guided Multi-modal Collaborative segmentation Network (DGMCN) is proposed for complex endo scopic scenarios. This approach pioneers the integration of monocular depth estimation with an encoder-decoder architecture, introducing structural modality to compensate for the inadequacies of RGB images in boundary identification while explicitly modeling three-dimensional deformation characteristics of mucosal surfaces.</li>
+      <li>A cross-modal feature fusion module incorporating global-local collaborative pathways and a multi-scale pyramid module are designed, enabling joint modeling of spatial structures and textural appearance features.</li>
+      <li>State-of-the-art performance has been achieved on three public polyp segmentation datasets, significantly enhancing the segmentation stability and generalization capability in scenarios involving complex deformations, blurred boundaries, and low-contrast conditions.</li>
     </ul>
 
   </div>
