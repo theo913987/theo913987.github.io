@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Patents and Software Works"
     url: "/#-patents-and-software-works"
+
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Skills"
     url: "/#-skills"
