@@ -55,7 +55,7 @@ If you are interested in my research or potential collaborations, feel free to c
     </p>
 
     <p>
-      <strong>Daoxi Cao</strong>, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xinyi Li, Xuehan Zhang, Binwei Li, Xuancheng Gu, Xueyu Liu, Yongfei Wu
+      <strong>Daoxi Cao</strong>, Hangbei Cheng, Yijin Li, Ruolin Zhou, Xuehan Zhang, Xinyi Li, Binwei Li, Xuancheng Gu, Jianan Zhang, Xueyu Liu, Yongfei Wu
     </p>
 
     <div style="display: flex; gap: 20px; margin-top: 10px;">
