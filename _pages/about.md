@@ -76,7 +76,7 @@ If you are interested in my research or potential collaborations, feel free to c
   </div>
 </div>
 
-<!-- FALMIL Paper -->
+<!-- DGMCN Paper -->
 <div class='paper-box' style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 30px;">
 
   <!-- Left: Image Section -->
@@ -96,7 +96,7 @@ If you are interested in my research or potential collaborations, feel free to c
     </p>
 
     <p>
-      <strong> Xuehan Zhang, Hangbei Cheng, Tengfei Xu, Xinyi Li, Daoxi Cao, Xiaorong Dong, Xueyu Liu, Yongfei Wu
+      Xuehan Zhang, Hangbei Cheng, Tengfei Xu, Xinyi Li, <strong> Daoxi Cao</strong> , Xiaorong Dong, Xueyu Liu, Yongfei Wu
     </p>
 
     <div style="display: flex; gap: 20px; margin-top: 10px;">
