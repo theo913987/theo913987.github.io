@@ -20,13 +20,15 @@ redirect_from:
 I am an undergraduate student (Class of 2022) at the 
 <a href="https://ccst.tyut.edu.cn/" target="_blank">School of Computer Science and Technology</a>, 
 <a href="https://www.tyut.edu.cn/" target="_blank">Taiyuan University of Technology (TYUT)</a>, 
-supervised by Associate Professor Yongfei Wu. I am currently a member of the Intelligent Medicine and Biometric Research Laboratory (IMBR) at TYUT. 
+supervised by <a href="https://tylgswyxgc.tyut.edu.cn/info/1411/5135.htm" target="_blank">Associate Professor Yongfei Wu</a>. I am currently a member of the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> at TYUT. 
 My research primarily focuses on medical image analysis, including weakly supervised classification and segmentation of pathological and endoscopic images.
 
 
 In addition to my core research in medical imaging, I am also deeply interested in emerging areas such as large language models and their interdisciplinary applications, as well as multimodal learning, foundation models in vision, and weakly supervised learning. I am always eager to explore new ideas, equipped with a strong willingness and ability to learn, and I look forward to growing together with my future advisor through collaborative research and continuous exploration.
 
 If you are interested in my research or potential collaborations, feel free to contact me via the provided details!
+
+<a href="theo913987@163.com" target="_blank"><strong>[Email]</strong></a>/<a href="https://github.com/theo913987" target="_blank"><strong>[Github]</strong></a>
 
 
 # 🔥 News
