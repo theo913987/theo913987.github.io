@@ -85,7 +85,7 @@ If you are interested in my research or potential collaborations, feel free to c
   <div class='paper-box-image' style="flex: 0 0 300px; max-width: 300px;">
     <div>
       <div class="badge">PRCV 2025</div>
-      <img src='images/falmil-figure.png' alt="FALMIL Figure" width="100%">
+      <img src='images/FILMIL.png' alt="FALMIL Figure" width="100%">
     </div>
   </div>
 
