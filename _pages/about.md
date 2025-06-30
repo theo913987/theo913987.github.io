@@ -123,44 +123,27 @@ If you are interested in my research or potential collaborations, feel free to c
 
 # 🔬 Research Projects
 
-- **Multidimensional OCT-Based Macular Lesion Recognition & Prediction System**  
+- **Multidimensional OCT-Based Macular Lesion Recognition and Prediction System**  
   *Aug 2024 – Jun 2025*  
   *Core Contributor, Shanxi Provincial Innovation & Entrepreneurship Training*  
-  Applied the Mamba model to multidimensional OCT images for automatic detection and segmentation of elderly macular lesions.  
-  **Responsibilities**:
-  - Built the core network in PyTorch and integrated a multi-directional scanning mechanism  
-  - Implemented FFT-based frequency-domain fusion  
-  - Designed and trained an MLP head for lesion segmentation  
-  **Outcomes**: Trained on public/private datasets and deployed online. Filed 3 patents and 1 software copyright; 1 CCF-C paper under review.
-
+  Applied the Mamba model to multidimensional OCT images for automatic detection and segmentation of elderly macular lesions.
+  
 - **Dual-Stream Attention-Guided Learning for Weakly Supervised Whole-Slide Image Classification**  
   *Mar 2025 – Jun 2025*  
   *Core Contributor*  
   Proposed a dual-stream teacher–student architecture for weakly supervised WSI classification.  
-  **Responsibilities**:
-  - Designed alternating training for semantic consistency  
-  - Developed a VSSMamba encoder and FASA module for long-range context modeling  
-  **Outcomes**: Outperformed baselines on synthetic and real-world datasets; 1 SCI Q2 paper under review.
 
 - **Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images**  
   *Jan 2025 – Apr 2025*  
   *Core Contributor*  
   Built an encoder–decoder framework with depth guidance to overcome mucosal deformation challenges.  
-  **Responsibilities**:
-  - Designed a global–local feature fusion module  
-  - Built a multi-scale pyramid module for joint spatial–textural modeling  
-  **Outcomes**: Achieved state-of-the-art results on three datasets; 1 CCF-C journal paper with editor.
 
 - **Deep Learning–Based Semantic Communication System for Image Transmission**  
   *Aug 2024 – Mar 2025*  
   *Core Contributor, Taiyuan University of Technology Innovation Training*  
   Designed a Transformer-based semantic communication pipeline for image compression and transmission.  
-  **Responsibilities**:
-  - Partitioned a Transformer model and integrated with semantic channel  
-  - Tuned trade-offs among compression, transmission speed, and quality  
-  **Outcomes**: Built a prototype with high-quality image reconstruction and low-latency transmission.
 
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 - *2025.02* The 16th Lanqiao Cup National Software & IT Professional Talent Competition – Special Track — *National Level – First Prize*
 - *2023.06* The 25th National College English Competition — *National Level – Third Prize*
 - *2023.03* The 32nd National Undergraduate Mathematical Modeling Contest — *Provincial Level – Second Prize*
