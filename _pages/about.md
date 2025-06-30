@@ -38,7 +38,7 @@ If you are interested in my research or potential collaborations, feel free to c
 - *2023.06*: &nbsp;🎉🎉 I was honored with the <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — <em>Outstanding Talent Award</em></a> (Top 2%)
 
 
-# 📝 Publications
+# 📝 Publication
 
 <!-- DSAGL Paper -->
 <div class='paper-box' style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 30px;">
@@ -121,39 +121,76 @@ If you are interested in my research or potential collaborations, feel free to c
   </div>
 </div>
 
+# 🔬 Research Projects
 
+- **Multidimensional OCT-Based Macular Lesion Recognition & Prediction System**  
+  *Aug 2024 – Jun 2025*  
+  *Core Contributor, Shanxi Provincial Innovation & Entrepreneurship Training*  
+  Applied the Mamba model to multidimensional OCT images for automatic detection and segmentation of elderly macular lesions.  
+  **Responsibilities**:
+  - Built the core network in PyTorch and integrated a multi-directional scanning mechanism  
+  - Implemented FFT-based frequency-domain fusion  
+  - Designed and trained an MLP head for lesion segmentation  
+  **Outcomes**: Trained on public/private datasets and deployed online. Filed 3 patents and 1 software copyright; 1 CCF-C paper under review.
 
-# 🎖 Honors and Awards
-- *2025.02* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Special Project Track — *National Level – First Prize*
-- *2023.06* The 25th National College English Contest — *National Level – Third Prize*
-- *2023.03* The 32nd National College Mathematical Modeling Competition — *Provincial Level – Second Prize*
-- *2025.06* The 16th Lanqiao Cup National Software and Information Technology Talent Competition – Design Track — *Provincial Level – Second Prize*
+- **Dual-Stream Attention-Guided Learning for Weakly Supervised Whole-Slide Image Classification**  
+  *Mar 2025 – Jun 2025*  
+  *Core Contributor*  
+  Proposed a dual-stream teacher–student architecture for weakly supervised WSI classification.  
+  **Responsibilities**:
+  - Designed alternating training for semantic consistency  
+  - Developed a VSSMamba encoder and FASA module for long-range context modeling  
+  **Outcomes**: Outperformed baselines on synthetic and real-world datasets; 1 SCI Q2 paper under review.
+
+- **Depth-Guided Multi-modal Collaboration Network for Robust Polyp Segmentation in Endoscopic Images**  
+  *Jan 2025 – Apr 2025*  
+  *Core Contributor*  
+  Built an encoder–decoder framework with depth guidance to overcome mucosal deformation challenges.  
+  **Responsibilities**:
+  - Designed a global–local feature fusion module  
+  - Built a multi-scale pyramid module for joint spatial–textural modeling  
+  **Outcomes**: Achieved state-of-the-art results on three datasets; 1 CCF-C journal paper with editor.
+
+- **Deep Learning–Based Semantic Communication System for Image Transmission**  
+  *Aug 2024 – Mar 2025*  
+  *Core Contributor, Taiyuan University of Technology Innovation Training*  
+  Designed a Transformer-based semantic communication pipeline for image compression and transmission.  
+  **Responsibilities**:
+  - Partitioned a Transformer model and integrated with semantic channel  
+  - Tuned trade-offs among compression, transmission speed, and quality  
+  **Outcomes**: Built a prototype with high-quality image reconstruction and low-latency transmission.
+
+# 🎖 Honors & Awards
+- *2025.02* The 16th Lanqiao Cup National Software & IT Professional Talent Competition – Special Track — *National Level – First Prize*
+- *2023.06* The 25th National College English Competition — *National Level – Third Prize*
+- *2023.03* The 32nd National Undergraduate Mathematical Modeling Contest — *Provincial Level – Second Prize*
+- *2025.06* The 16th Lanqiao Cup National Software & IT Professional Talent Competition – Design Track — *Provincial Level – Second Prize*
 - *2023.12* The 15th National College Mathematical Competition — *Provincial Level – Third Prize*
-- *2024.04* The 15th Lanqiao Cup National Software and Information Technology Talent Competition – Programming Track — *Provincial Level – Third Prize*
+- *2024.04* The 15th Lanqiao Cup National Software & IT Professional Talent Competition – Programming Track — *Provincial Level – Third Prize*
 - *2024.06* Shanxi Construction Investment Education Award — *Outstanding Student Award*
 - *2023.06* <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — *Outstanding Talent Award*</a> (Top 2%)
-- School-level “Outstanding Academic Research Individual” Certificate — *Once*
-- School-level “Outstanding Academic Performance Individual” Certificate — *Three times*
-- School-level “Second-Class Scholarship” — *Once*
-- School-level “Third-Class Scholarship” — *Three times*
+- School-level “Academic Research Outstanding Individual (” Certificate — *Once*
+- School-level “Academic Excellence Outstanding Individual” Certificate — *Three times*
+- School-level “Second-Class Outstanding Student Scholarship” — *Once*
+- School-level “Third-Class Outstanding Student Scholarship” — *Three times*
  
 # 💻 Patents and Software Works
-- **Design Patent**: Intelligent Diagnostic Robot (Based on Multidimensional OCT Images)  
-  *Inventor*: First Author  
+- **Design Patent**: Intelligent Diagnostic Robot Based on Multidimensional OCT Imagess
+  *Inventor*: First Inventor  
   *Granted on*: June 24, 2025  
   *Patent No.*: [ZL 2024 3 0682609.6](https://epub.cnipa.gov.cn/)  
 
-- **Utility Patent (Pending)**: A Multizone Adaptive Focus OCT Device  
-  *Co-inventor*: Third Author  
-  *Filed on*: October 2024
-
-- **Utility Patent (Pending)**: A Disease Variant Recognition Device  
-  *Co-inventor*: Third Author  
+- **Utility Patent (Pending)**: Lesion Identification Device  
+  *Co-inventor*: Third Inventor  
   *Filed on*: March 2025
 
-- **Software Copyright (Pending)**: Lesion Recognition and Prediction System for AMD Based on Multidimensional OCT  
-  *Co-author*: Third Author  
+- **Software Copyright (Pending)**: Elderly Macular Lesion Recognition and Prediction System Based on Multidimensional OCT  
+  *Co-author*: Third Inventor  
   *Filed on*: June 2025
+
+- **Utility Patent (Pending)**: Multifocal Frequency-Domain OCT Adaptive Focusing Device  
+  *Co-inventor*: Third Inventor  
+  *Filed on*: October 2024
 
 # 📖 Educations
 - *2019.06 - present*,B.ENG. Major in Computer Science and Technology, College of Computer Science and Technology (College of Big Data) , Taiyuan University of Technology, China
