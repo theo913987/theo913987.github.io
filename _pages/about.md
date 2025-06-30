@@ -32,10 +32,10 @@ If you are interested in my research or potential collaborations, feel free to c
 
 
 # 🔥 News
-- *2024.08*: and nbsp;🎉🎉<a href="https://jyt.shanxi.gov.cn/sjytxxgk/xxgkml/jytwj/202408/P020240806312476481683.pdf" target="_blank">The Undergraduate Innovation and Entrepreneurship Training Program project</a> in which I played a key role was recognized as a provincial-level project.
-- *2024.02*: and nbsp;I joined the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> as an undergraduate member. 
-- *2023.12*: and nbsp;Competitively selected for the <a href="https://jwc.tyut.edu.cn/info/1359/7845.htm" target="_blank">Excellent Engineer Education and Training Program</a>, joining the dedicated Excellent Engineer Class designed for top-performing students.
-- *2023.06*: and nbsp;🎉🎉 I was honored with the <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — <em>Outstanding Talent Award</em></a> (Top 2%)
+- *2024.08*: 🎉🎉<a href="https://jyt.shanxi.gov.cn/sjytxxgk/xxgkml/jytwj/202408/P020240806312476481683.pdf" target="_blank">The Undergraduate Innovation and Entrepreneurship Training Program project</a> in which I played a key role was recognized as a provincial-level project.
+- *2024.02*: I joined the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> as an undergraduate member. 
+- *2023.12*: Competitively selected for the <a href="https://jwc.tyut.edu.cn/info/1359/7845.htm" target="_blank">Excellent Engineer Education and Training Program</a>, joining the dedicated Excellent Engineer Class designed for top-performing students.
+- *2023.06*: 🎉🎉 I was honored with the <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — <em>Outstanding Talent Award</em></a> (Top 2%)
 
 
 # 📝 Publication
