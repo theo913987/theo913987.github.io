@@ -32,10 +32,10 @@ If you are interested in my research or potential collaborations, feel free to c
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉<a href="https://jyt.shanxi.gov.cn/sjytxxgk/xxgkml/jytwj/202408/P020240806312476481683.pdf" target="_blank">The Undergraduate Innovation and Entrepreneurship Training Program project</a> in which I played a key role was recognized as a provincial-level project.
-- *2024.02*: &nbsp;I joined the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> as an undergraduate member. 
-- *2023.12*: &nbsp;Competitively selected for the <a href="https://jwc.tyut.edu.cn/info/1359/7845.htm" target="_blank">Excellent Engineer Education and Training Program</a>, joining the dedicated Excellent Engineer Class designed for top-performing students.
-- *2023.06*: &nbsp;🎉🎉 I was honored with the <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — <em>Outstanding Talent Award</em></a> (Top 2%)
+- *2024.08*: and nbsp;🎉🎉<a href="https://jyt.shanxi.gov.cn/sjytxxgk/xxgkml/jytwj/202408/P020240806312476481683.pdf" target="_blank">The Undergraduate Innovation and Entrepreneurship Training Program project</a> in which I played a key role was recognized as a provincial-level project.
+- *2024.02*: and nbsp;I joined the <a href="https://lab.rjmart.cn/10579/3146DDB7959849F4" target="_blank">Intelligent Medicine and Biometric Research Laboratory (IMBR)</a> as an undergraduate member. 
+- *2023.12*: and nbsp;Competitively selected for the <a href="https://jwc.tyut.edu.cn/info/1359/7845.htm" target="_blank">Excellent Engineer Education and Training Program</a>, joining the dedicated Excellent Engineer Class designed for top-performing students.
+- *2023.06*: and nbsp;🎉🎉 I was honored with the <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — <em>Outstanding Talent Award</em></a> (Top 2%)
 
 
 # 📝 Publication
@@ -125,7 +125,7 @@ If you are interested in my research or potential collaborations, feel free to c
 
 - **Multidimensional OCT-Based Macular Lesion Recognition and Prediction System**  
   *Aug 2024 – Jun 2025*  
-  *Core Contributor, Shanxi Provincial Innovation & Entrepreneurship Training*  
+  *Core Contributor, Shanxi Provincial Innovation and  Entrepreneurship Training*  
   Applied the Mamba model to multidimensional OCT images for automatic detection and segmentation of elderly macular lesions.
   
 - **Dual-Stream Attention-Guided Learning for Weakly Supervised Whole-Slide Image Classification**  
@@ -144,12 +144,12 @@ If you are interested in my research or potential collaborations, feel free to c
   Designed a Transformer-based semantic communication pipeline for image compression and transmission.  
 
 # 🎖 Honors and Awards
-- *2025.02* The 16th Lanqiao Cup National Software & IT Professional Talent Competition – Special Track — *National Level – First Prize*
+- *2025.02* The 16th Lanqiao Cup National Software and  IT Professional Talent Competition – Special Track — *National Level – First Prize*
 - *2023.06* The 25th National College English Competition — *National Level – Third Prize*
 - *2023.03* The 32nd National Undergraduate Mathematical Modeling Contest — *Provincial Level – Second Prize*
-- *2025.06* The 16th Lanqiao Cup National Software & IT Professional Talent Competition – Design Track — *Provincial Level – Second Prize*
+- *2025.06* The 16th Lanqiao Cup National Software and  IT Professional Talent Competition – Design Track — *Provincial Level – Second Prize*
 - *2023.12* The 15th National College Mathematical Competition — *Provincial Level – Third Prize*
-- *2024.04* The 15th Lanqiao Cup National Software & IT Professional Talent Competition – Programming Track — *Provincial Level – Third Prize*
+- *2024.04* The 15th Lanqiao Cup National Software and  IT Professional Talent Competition – Programming Track — *Provincial Level – Third Prize*
 - *2024.06* Shanxi Construction Investment Education Award — *Outstanding Student Award*
 - *2023.06* <a href="https://student.tyut.edu.cn/info/1445/12953.htm" target="_blank">Taiyuan University of Technology “Qing'ou Award” — *Outstanding Talent Award*</a> (Top 2%)
 - School-level “Academic Research Outstanding Individual (” Certificate — *Once*
